@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  # super-happiness
+  <title>super-happiness</title>
  </head>
  <body>
  <h1>My Second</h1>
